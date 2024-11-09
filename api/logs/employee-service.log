@@ -1,0 +1,23 @@
+2024-11-09 12:30:12 INFO  c.r.api.service.EmployeeService - Fetching all employees from downstream API
+2024-11-09 12:30:12 INFO  c.r.api.service.EmployeeService - Successfully fetched 50 employee.
+2024-11-09 12:30:16 INFO  c.r.api.service.EmployeeService - Fetching top 10 highest-earning employee names.
+2024-11-09 12:30:16 INFO  c.r.api.service.EmployeeService - Top 10 employee names fetched successfully.
+2024-11-09 12:30:20 INFO  c.r.api.service.EmployeeService - Creating new employee with name 'Gautam Kumar'.
+2024-11-09 12:30:20 INFO  c.r.api.service.EmployeeService - Employee created successfully with ID 3013f351-8f20-41ee-a666-4a079302cf14.
+2024-11-09 12:30:31 INFO  c.r.api.service.EmployeeService - Fetching employee by ID: 001ef45a-3db1-4e2e-9239-870c8c8861ff
+2024-11-09 12:38:26 INFO  c.r.api.service.EmployeeService - Fetching all employees from downstream API
+2024-11-09 12:38:27 INFO  c.r.api.service.EmployeeService - Successfully fetched 50 employee.
+2024-11-09 12:38:31 INFO  c.r.api.service.EmployeeService - Fetching top 10 highest-earning employee names.
+2024-11-09 12:38:31 INFO  c.r.api.service.EmployeeService - Top 10 employee names fetched successfully.
+2024-11-09 12:38:34 INFO  c.r.api.service.EmployeeService - Creating new employee with name 'Gautam Kumar'.
+2024-11-09 12:38:34 INFO  c.r.api.service.EmployeeService - Employee created successfully with ID a86ffb5d-82e4-4924-a937-3b5f3ebea648.
+2024-11-09 12:38:38 INFO  c.r.api.service.EmployeeService - Fetching employee by ID: 001ef45a-3db1-4e2e-9239-870c8c8861ff
+2024-11-09 12:43:33 INFO  c.r.api.service.EmployeeService - Fetching employee by ID: 001ef45a-3db1-4e2e-9239-870c8c8861ff
+2024-11-09 12:43:35 INFO  c.r.api.service.EmployeeService - Fetching all employees from downstream API
+2024-11-09 12:43:35 INFO  c.r.api.service.EmployeeService - Successfully fetched 50 employee.
+2024-11-09 12:43:37 INFO  c.r.api.service.EmployeeService - Fetching top 10 highest-earning employee names.
+2024-11-09 12:43:37 INFO  c.r.api.service.EmployeeService - Top 10 employee names fetched successfully.
+2024-11-09 12:43:38 INFO  c.r.api.service.EmployeeService - Creating new employee with name 'Gautam Kumar'.
+2024-11-09 12:43:38 INFO  c.r.api.service.EmployeeService - Employee created successfully with ID 8e6b4eac-5d70-4a98-ac1a-9ddfa6bc59b9.
+2024-11-09 13:37:23 INFO  c.r.api.service.EmployeeService - Fetching all employees from downstream API
+2024-11-09 13:37:23 INFO  c.r.api.service.EmployeeService - Successfully fetched 50 employee.
